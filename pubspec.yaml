@@ -1,7 +1,7 @@
 name: znn_sdk_dart
 description: Zenon SDK for Dart and Flutter
 version: 5.0.1-dev.1
-homepage: https://github.com/zenon-flutter/znn_dart_sdk
+homepage: https://github.com/zenon-flutter/znn_sdk_dart
 
 environment:
   sdk: '>=2.14.0 <3.0.0'
