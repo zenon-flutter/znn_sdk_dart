@@ -2,6 +2,11 @@
 
 Pub package mirror for znn_sdk_dart: https://testnet.znn.space/#!downloads.md#SDKs
 
+## What is Zenon?
+
+Zenon is a cryptocurrency based on a decentralized network that aims to create next-generation tools powering the digital ecosystem of the future.
+Website: https://zenon.network/
+
 ### Import the znn_sdk_dart package
 To use the znn_sdk_dart plugin, follow the [plugin installation instructions](https://pub.dartlang.org/packages/znn_sdk_dart#pub-pkg-tab-installing).
 
